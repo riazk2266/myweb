@@ -1,0 +1,57 @@
+.heading{
+  color: white;
+  background-color: black;
+  animation-delay: 2s;
+  animation-duration: 1s;
+  border: 1px ;
+  border-radius: 10px;
+  text-align: center;
+  font-family: serif;
+  margin: 15px;
+  padding: 5px;
+  
+}
+nav{
+  text-align: center;
+  color: red;
+  background-color: black;
+  border: 1px;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 5px;
+}
+nav:hover{
+  border: 1px;
+  border-radius: 15px;
+  color: redte;
+  margin: 10;
+  padding: 5px;
+}
+.section{
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+  font-family: serif;
+  font-size: 130%;
+  color: white;
+  background-image: url(https://media.istockphoto.com/id/652180798/photo/dark-man-guy-profile-male-depression-black-and-white.jpg?s=612x612&w=is&k=20&c=RKYwX1y6U1auJkn7BrVelSv2qVpMh0WxHhUQZui5Ibc=);
+  border: 1px;
+  border-radius: 15px;
+} 
+.footer{
+  background-image: url(https://media.istockphoto.com/id/652180798/photo/dark-man-guy-profile-male-depression-black-and-white.jpg?s=612x612&w=is&k=20&c=RKYwX1y6U1auJkn7BrVelSv2qVpMh0WxHhUQZui5Ibc=);
+  color: white;
+  text-align: center;
+  margin: 15px;
+  padding: 15px;
+  border: 1px;
+  border-radius: 15px;
+}
+.name{
+  color: white;
+}
+.photos{
+  margin: 15px;
+  padding: 15px;
+  border-radius: 15px;
+}
